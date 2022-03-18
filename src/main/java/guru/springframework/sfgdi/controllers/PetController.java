@@ -1,6 +1,7 @@
 package guru.springframework.sfgdi.controllers;
 
-import com.springframework.pets.PetService;
+import com.springframework.thirdparty.pets.PetService;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 
 /**

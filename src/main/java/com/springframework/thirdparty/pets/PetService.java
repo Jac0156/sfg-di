@@ -1,4 +1,4 @@
-package com.springframework.pets;
+package com.springframework.thirdparty.pets;
 
 /**
  * Created by jt on 12/28/19.
